@@ -141,3 +141,16 @@ ul {
     margin-top: 20px;
 }
 
+.passion {
+    background-color: #f9f0fb;   
+    border-left: 4px solid #d8b4e2;  
+    padding: 12px 16px;
+    margin: 15px 20px;
+    border-radius: 6px;
+    font-style: italic;
+    color: #444;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+
